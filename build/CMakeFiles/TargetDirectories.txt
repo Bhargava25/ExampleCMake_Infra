@@ -1,0 +1,3 @@
+C:/Users/DELL/projects/helloworld/build/CMakeFiles/helloworld.dir
+C:/Users/DELL/projects/helloworld/build/CMakeFiles/edit_cache.dir
+C:/Users/DELL/projects/helloworld/build/CMakeFiles/rebuild_cache.dir
